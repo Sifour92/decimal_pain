@@ -1,0 +1,3 @@
+/Users/tandraym/CLionProjects/decimal/cmake-build-debug/CMakeFiles/decimal.dir
+/Users/tandraym/CLionProjects/decimal/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tandraym/CLionProjects/decimal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
