@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/tandraym/CLionProjects/decimal/cmake-build-debug",
-		"source" : "/Users/tandraym/CLionProjects/decimal"
+		"build" : "/Users/tandraym/decimal_pain_project/cmake-build-debug",
+		"source" : "/Users/tandraym/decimal_pain_project"
 	},
 	"version" : 
 	{

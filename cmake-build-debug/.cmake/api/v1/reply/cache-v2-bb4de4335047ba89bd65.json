@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/tandraym/CLionProjects/decimal/cmake-build-debug"
+			"value" : "/Users/tandraym/decimal_pain_project/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -383,7 +383,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/tandraym/CLionProjects/decimal/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/tandraym/decimal_pain_project/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/tandraym/CLionProjects/decimal"
+			"value" : "/Users/tandraym/decimal_pain_project"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1015,7 +1015,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/tandraym/CLionProjects/decimal/cmake-build-debug"
+			"value" : "/Users/tandraym/decimal_pain_project/cmake-build-debug"
 		},
 		{
 			"name" : "decimal_IS_TOP_LEVEL",
@@ -1039,7 +1039,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/tandraym/CLionProjects/decimal"
+			"value" : "/Users/tandraym/decimal_pain_project"
 		}
 	],
 	"kind" : "cache",
